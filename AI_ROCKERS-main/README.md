@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ffaa&size=35&width=900&height=80&lines=VidyAI:+Next-Gen+AI+Tutor+%26+Visualizer!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ffaa&size=35&width=900&height=80&lines=NEOAI:+Next-Gen+AI+Tutor+%26+Visualizer!"/>
 
-  <h1><b><a href="https://vidyaai-sage.vercel.app/">VidyAI</a></b></h1> 
+  <h1><b><a href="https://vidyaai-sage.vercel.app/">Create BY NEooo</a></b></h1> 
 
 <p>
   <img src="https://img.shields.io/github/stars/jai3546/AI_ROCKERS?style=for-the-badge&logo=github&color=6C63FF&cacheSeconds=0" alt="Stars"/>
@@ -13,28 +13,11 @@
   <img src="https://img.shields.io/badge/Contributors-Welcome-blueviolet?style=for-the-badge" alt="Contributors Welcome"/>
 </p>
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 <p><i>Transforming how students learn — one emotion at a time.</i></p>
 
 </div>
 
----
-
-## Table of Contents
-
-- [About VidyAi](#about-vidyai)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Try It Live](#try-it-live)
-- [Folder Structure](#folder-structure)
-- [Setup and Installation](#setup-and-installation)
-- [Code Guidelines and License](#code-guidelines-and-license)
-- [License](LICENSE)
-- [Future Roadmap](#future-roadmap)
-- [Authors and Support](#authors-and-support)
-
----
 
 ## About VidyAi
 
