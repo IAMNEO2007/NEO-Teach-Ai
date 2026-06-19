@@ -226,7 +226,6 @@ Follow these steps to run VidyAi on your local computer.
 
 #### 1. Clone the project code
 ```bash
-git clone https://github.com/jai3546/AI_ROCKERS.git
 cd AI_ROCKERS
 ```
 
@@ -301,7 +300,6 @@ Examples:
 - [ ] Add AI-facilitated group study rooms for students.
 
 
-**🌟 Star the repo · 🍴 Fork it · 📢 Share it**
 
 <br/>
 
